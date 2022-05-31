@@ -1,0 +1,9 @@
+{
+    "baseUrl": "https://www.jumia.com.ng",
+    "defaultCommandTimeout": 8000,
+    "pageLoadTimeout": 20000,
+   "viewportHeight": 800,
+   "viewportWidth": 1500
+  
+   }
+   

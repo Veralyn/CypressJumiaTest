@@ -1,0 +1,11 @@
+{
+  "name": "cypressjumiatest",
+  "version": "1.0.0",
+  "description": "Jumia test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vera",
+  "license": "ISC"
+}
